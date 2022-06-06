@@ -4,7 +4,7 @@
 * email: langustboi@yandex.ru
 * Phone: +375445843116
 * GitHub: [chizzora](https://github.com/chizzora)
-****
+
 ## About me
 An ambitious electronic engineering undergraduate offering a strong attention to detail and accuracy and the important ability to think critically and solve complex problems. My current interest is acquiring knowledge in the field of front-end development.
 
