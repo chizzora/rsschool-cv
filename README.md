@@ -1,1 +1,1 @@
-# rsschool-cv
+https://chizzora.github.io/rsschool-cv/cv
